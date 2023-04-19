@@ -13,7 +13,7 @@ The completed application should meet the following criteria:
 * As a user, I can view my application on a mobile device as well as a desktop.
 
 ### Link To Deploy URL
-https://eugeneisingizwe.github.io/CSS-Snippet-Cheat-Sheet/
+
 
 ### Specifications
 
