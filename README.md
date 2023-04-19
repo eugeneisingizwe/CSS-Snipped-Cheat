@@ -1,6 +1,6 @@
 # CSS-Snipped-Cheat
 In this project I am building a webpage that will hold a collection of CSS snippets. 
-## Instructions
+## User Story
 
 The completed application should meet the following criteria:
 
@@ -12,6 +12,9 @@ The completed application should meet the following criteria:
 
 * As a user, I can view my application on a mobile device as well as a desktop.
 
+### Link To Deploy URL
+https://eugeneisingizwe.github.io/CSS-Snippet-Cheat-Sheet/
+
 ### Specifications
 
 * The app uses semantic HTML elements and proper indentation.
@@ -21,7 +24,8 @@ The completed application should meet the following criteria:
 * The app uses flexbox and media queries to create a responsive grid layout.
 
 
-    ![On a desktop, the application displays three CSS code snippets per row.](./Images/01-app-desktop.png)
+
+    ![On a desktop, the application displays three CSS code snippets per row.](./Assets/Images/127.0.0.1_5501_02-Advanced-CSS_01-Activities_28-Stu_Mini-Project_Main_index.html.png)
 
 
 
